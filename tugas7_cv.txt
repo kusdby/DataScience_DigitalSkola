@@ -1,0 +1,36 @@
+Resume
+
+Name    : Mas Kusumo Dibyo
+Address : Jalan Sompok No.34 Semarang, Jawa Tengah, Indonesia
+Phone   : +6281249495770
+
+ABOUT ME :
+Currently studying Computer Science major in Dian Nuswantoro University. I'm interested in AI
+and machine learning, especially anything about data. With data we can get information,
+analysis, and create something that can be usefull. Also skilled in designing, developing, and
+building website and also have learned about programming like HTML, CSS, Java, and PHP.
+I’ve already built a few projects by myself or as a team and able to complete projects efficiently
+and on time.
+
+EDUCATION
+Dian Nuswantoro University
+2018 - present
+Majoring in Informatics Engineering, Computer Science
+
+EXPERIENCE
+Java Programming Training, Dian Nuswatoro Club
+June 2019
+Practice some basic Java application and presented the application in front of the others.
+Dart Programming Training, Dicoding
+January 2021
+Learn the basic of Dart programming languages and implemented it to real life applications.
+Machine learning Training, Dicoding
+February 2021
+Learn the basics of Phyton programming languages and built some applications based on the AI
+and Deep Learning.
+Machine Learning Student, Bangkit Academy led by Google, Tokopedia, Gojek, Traveloka
+February 2021 - present
+Learn a lot about machine learning and create final projects based on AI and deep learning.
+Design Graphic Manager Internship, CampusDigital.id
+November 2020 - January 2021
+Responsible for the daily design that will be used for the promotions of the company.
